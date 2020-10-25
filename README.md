@@ -1,8 +1,8 @@
 # FDR High School - AP CS A
 
-## Last Name: 
-## First Name: 
-## GitHub Username:
+## Last Name: SOYDAN
+## First Name: MEHMET
+## GitHub Username: MEHSOYY
 
 
 ### General Workflow: 
