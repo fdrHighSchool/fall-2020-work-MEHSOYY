@@ -1,0 +1,13 @@
+impor java.util.Scanner;
+
+class Main {
+ public static void main(String[] args) {
+ double temprature;
+ Scanner in = new Scanner(System.in);
+ System.out.println("Enter temprature in Celcius");
+ temprature = in.nextInt();
+ temprature = ((temprature /5)*9)+32;
+
+ System.out.println("Temprature in Fahrenheit is  = " + temprature);
+ }
+}
